@@ -81,7 +81,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SamiGamin&theme=blue-green)
 
 
 
