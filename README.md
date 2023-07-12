@@ -12,9 +12,7 @@
 - 🔭 A Penultimate 
 - 🌱 I’m currently learning more about Tensorflow in depth
      
-     <p align="center">
-  <img width="500" height="300" src="">
-</p>
+
 
      
  
@@ -23,7 +21,7 @@
 
 
 
-- 👉 You can follow our page [SAMIGAMING]() for Python Projects and more.
+- 👉 You can follow our page [SAMIGAMING](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
 - 📫 How to reach me: [Instagram]() , [Linkedin]()
 - 😄 Pronouns: He/His.
