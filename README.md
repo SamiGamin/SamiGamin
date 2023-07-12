@@ -35,7 +35,7 @@
 
 🤝🏻 Reach me out!
 
-[![GitHub](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/SamiGamin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamiGamin)
 
 
 [![Linkedin:]()]()
