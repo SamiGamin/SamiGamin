@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning more about Tensorflow in depth
      
      <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
+  <img width="500" height="300" src="">
 </p>
 
      
@@ -34,12 +34,12 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ?highlight=spotify:track:1mXVgsBdtIVeCLJnSnmtdV)
+[<img src="" width="350" />]()
 
 
 🤝🏻 Reach me out!
 
-[![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/sahil2128)
+[![GitHub sahil2128]()](https://github.com/sahil2128)
 
 
 [![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
