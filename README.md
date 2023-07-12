@@ -82,7 +82,7 @@
 
 
 
-![Github Stats](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)    
+![Github Stats](https://img.shields.io/github/followers/SamiGamin.svg?style=social&label=Follow&maxAge=2592000)    
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiGamin&theme=blue-green"  />
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=SamiGamin&theme=blue-green"/>
 
