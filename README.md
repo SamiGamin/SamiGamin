@@ -35,7 +35,7 @@
 
 🤝🏻 Reach me out!
 
-[![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/SamiGamin)
+[![GitHub](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/SamiGamin)
 
 
 [![Linkedin:]()]()
@@ -44,7 +44,7 @@
 
 [![Instagram]()](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Telegram]()](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 **Languages and Tools:** 
 
