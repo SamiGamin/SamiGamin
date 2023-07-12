@@ -83,8 +83,8 @@
 
 
 ![Github Stats]()    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiGamin&theme=blue-green" "https://github-readme-stats.vercel.app/api?username=SamiGamin&theme=blue-green"  />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiGamin&theme=blue-green"  />
+<img align="center" src= "https://github-readme-stats.vercel.app/api?username=SamiGamin&theme=blue-green"/>
 
 
 
