@@ -32,21 +32,19 @@
 - ⚡ Fun fact: i can watch Naruto whole day🐱‍👤🍜🦊 
 
 
-### Spotify Playing 🎧
 
-[<img src="" width="350" />]()
 
 
 🤝🏻 Reach me out!
 
-[![GitHub sahil2128]()](https://github.com/sahil2128)
+[![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/SamiGamin)
 
 
-[![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
+[![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)]()
 
-[![Gmail sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sahiltripathi56@gmail.com)
+[![Gmail sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]()
 
-[![Instagram dynamic geek](https://img.shields.io/badge/-@dynamic__geek-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dynamic__geek/?hl=en)
+[![Instagram dynamic geek](https://img.shields.io/badge/-@dynamic__geek-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]()
 
 **Languages and Tools:** 
 
