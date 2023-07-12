@@ -86,7 +86,7 @@
 
 
 
-<img align="center" src="https://www.freepik.es/fotos-premium/vida-mexico-paisaje-campo_33754624.htm" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiGamin&theme=blue-green" />
 
 
 <p align="center">Show some ❤️ by ⭐ Repositories you find Superior!</p>
