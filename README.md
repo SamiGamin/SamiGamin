@@ -18,16 +18,14 @@
 
      
  
-- 🎤 I’m collaborating on Podcast [Spotify](https://open.spotify.com/show/0Xjsp5N1RiHlXl92E1SDxr?si=uSoi7RNjQYKdWF587h2Rnw&utm_source=copy-link&dl_branch=1) -
-
-![1](https://user-images.githubusercontent.com/55251741/126361130-b61cfcac-6762-4245-b88d-9ddcd1f0035e.PNG)
 
 
 
 
-- 👉 You can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
+
+- 👉 You can follow our page [SAMIGAMING]() for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
-- 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Sahil Tripathi](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
+- 📫 How to reach me: [Instagram]() , [Linkedin]()
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: i can watch Naruto whole day🐱‍👤🍜🦊 
 
@@ -40,11 +38,11 @@
 [![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/SamiGamin)
 
 
-[![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)]()
+[![Linkedin:]()]()
 
-[![Gmail sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]()
+[![Gmail]()]()
 
-[![Instagram dynamic geek](https://img.shields.io/badge/-@dynamic__geek-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]()
+[![Instagram]()]()
 
 **Languages and Tools:** 
 
@@ -83,12 +81,12 @@
 
 
 
-![Sahil's Github Stats](https://github-readme-stats.vercel.app/api?username=sahil2128&show_icons=true&theme=radical&hide=stars,issues)
+![Github Stats]()
 
 
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahil2128&layout=compact&theme=radical&count_private=true" />
+<img align="center" src="https://www.freepik.es/fotos-premium/vida-mexico-paisaje-campo_33754624.htm" />
 
 
 <p align="center">Show some ❤️ by ⭐ Repositories you find Superior!</p>
@@ -96,7 +94,7 @@
 
 
 ------
-[sahil2128](https://github.com/sahil2128)
+[SamiGaming](https://github.com/SamiGamin)
 
 
 
