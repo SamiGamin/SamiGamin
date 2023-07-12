@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2128&label=Views&color=blue&style=plastic" alt="sahil2128" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2128&label=Views&color=blue&style=plastic" alt="SamiGamin" /> </p>
 
 ![COVERR](https://user-images.githubusercontent.com/55251741/126353432-0b5d8ec4-40bf-486e-bcae-7d0434ba435c.png)
 
@@ -82,7 +82,7 @@
 
 
 
-![Github Stats]()    
+![Github Stats](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)    
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiGamin&theme=blue-green"  />
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=SamiGamin&theme=blue-green"/>
 
