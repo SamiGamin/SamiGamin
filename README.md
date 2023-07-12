@@ -39,7 +39,7 @@
 
 🤝🏻 Reach me out!
 
-[![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/sahil2128)
+[![GitHub sahil2128](https://img.shields.io/github/followers/sahil2128?label=follow&style=social)](https://github.com/SamiGamin)
 
 
 [![Linkedin: Sahil Tripathi](https://img.shields.io/badge/-sahiltripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-tripathi-5852b5184/)](https://www.linkedin.com/in/sahil-tripathi-5852b5184/)
