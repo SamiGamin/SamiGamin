@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil2128&label=Views&color=blue&style=plastic" alt="SamiGamin" /> </p>
 
-![COVERR](https://drive.google.com/file/d/1C4OHlH-H9jRW9hwJAfRuxYBJR_4ONz2K/view?usp=drive_link)
+
 
 
 **About Me -**
