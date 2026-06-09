@@ -8,9 +8,9 @@
 - 💻 **Especialidad:** Desarrollo de aplicaciones Android nativas y automatización del lado del servidor.
 - 🌱 **Explorando actualmente:** Inferencia de LLMs en local (Llama.cpp, Gemma, Qwen) y despliegue de infraestructura autohospedada (Docker, Jellyfin).
 - ⚙️ **Stack Principal:** Kotlin, Jetpack Compose, Firebase, Node.js y PM2.
-- 📫 **Cómo contactarme:** [LinkedIn](#) | [Email](#)
-- 😄 **Pronombres:** Él.
-- ⚡ **Dato curioso:** En mi tiempo libre disfruto creando y gestionando mods para simuladores de conducción como *American Truck Simulator* y *Euro Truck Simulator 2*.
+- 📫 **Cómo contactarme:**(#) | [Email](#)
+- 😄 **Pronombres:** ÉlSami.
+- ⚡ **Dato curioso:** .
 
 ---
 
